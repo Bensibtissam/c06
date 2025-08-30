@@ -48,7 +48,7 @@ void	ft_sort_args(int argc, char **argv)
 	}
 }
 
-int	main(int argc, char **argv)
+int main(int argc, char **argv)
 {
 	int i;
 
